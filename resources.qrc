@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/pivo" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
